@@ -1,0 +1,8 @@
+﻿*.csproj
+*.sln
+Trunk/Temp
+Trunk/.idea
+Trunk/Library
+Trunk/Logs
+Trunk/obj
+Trunk/Assets/Plugins/Editor/JetBrains
